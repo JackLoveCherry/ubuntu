@@ -1,0 +1,4 @@
+### 
+#### Q install software -> can not open GUI  when command line is ok 
+#### A fix all the depends
+#### sudo apt -fy install  
